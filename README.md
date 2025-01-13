@@ -6,7 +6,7 @@
 1. **Environment Setup**
    ```bash
    # Clone the repository
-   git clone [repository-url]
+   git clone https://github.com/Akhilesh0098/job-board
 
    # Install dependencies
    npm install
