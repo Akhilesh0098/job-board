@@ -260,5 +260,5 @@
 
 ### Additional Notes
 
-- Default admin credentials are in `.env.example`
+- Default admin credentials are in `.env`
 
